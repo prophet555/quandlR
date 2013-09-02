@@ -1,0 +1,4 @@
+quandlR
+=======
+
+quandl and R
